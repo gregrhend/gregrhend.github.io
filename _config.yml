@@ -58,8 +58,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : "HariharanJay"
+# twitter:
+  # username               : "greg_r_hend"
 og_image                 : "/assets/images/author.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -67,10 +67,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.linkedin.com/in/jayaram-hariharan/"
-    - "https://twitter.com/HariharanJay"
-    - "https://github.com/elbeejay"
-    - "https://fosstodon.org/@elbeejay"
+    - "www.linkedin.com/in/greg-hendrickson-92425114b"
+   # - "https://twitter.com/HariharanJay"
+    - "https://github.com/gregrhend"
+
 
 # Analytics
 analytics:
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jayaram Hariharan"
+  name             : "Greg Hendrickson"
   avatar           : "/assets/images/author.png"
   bio              :
   location         :
@@ -90,19 +90,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jayaram.hariharan@gmail.com
+      url: mailto:ghend0106@gmail.com
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Iz0P-B0AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/elbeejay"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/HariharanJay"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: https://fosstodon.org/@elbeejay
+      url: "https://github.com/gregrhend"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter"
+    #  url: "https://twitter.com/HariharanJay"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jayaram-hariharan/"
@@ -130,7 +127,7 @@ footer:
       url: https://fosstodon.org/@elbeejay
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/jayaram-hariharan/"
+      url: "https://www.linkedin.com/in/greg-hendrickson
     - label: "Curriculum Vitae (PDF)"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/jhariharan_cv.pdf"
