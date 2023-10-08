@@ -68,7 +68,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "www.linkedin.com/in/greg-hendrickson-92425114b"
-   # - "https://twitter.com/HariharanJay"
     - "https://github.com/gregrhend"
 
 
@@ -97,12 +96,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gregrhend"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter"
-    #  url: "https://twitter.com/HariharanJay"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/jayaram-hariharan/"
+      url: "https://www.linkedin.com/in/greg-hendrickson/"
     - label: "Curriculum Vitae (PDF)"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/jhariharan_cv.pdf"
@@ -112,19 +108,16 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jayaram.hariharan@gmail.com
+      url: mailto:ghend0106@gmail.com
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Iz0P-B0AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/elbeejay"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/HariharanJay"
+      url: "https://github.com/gregrhend"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: https://fosstodon.org/@elbeejay
+      url: https://fosstodon.org/@elbee
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/greg-hendrickson
