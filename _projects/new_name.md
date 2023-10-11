@@ -1,5 +1,5 @@
 ---
-title: "Delta Metrics"
+title: "New name"
 permalink: /projects/delta-metrics/
 excerpt: "Standardizing tools for delta metric analysis"
 header:
