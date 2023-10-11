@@ -1,6 +1,6 @@
 ---
 title: "New name"
-permalink: /projects/delta-metrics/
+permalink: /projects/new-name/
 excerpt: "Standardizing tools for delta metric analysis"
 header:
     #image: /assets/images/construction.png
