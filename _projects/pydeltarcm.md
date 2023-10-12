@@ -5,6 +5,7 @@ excerpt: "Making DeltaRCM modern and modular"
 header:
     #image: /assets/images/pydeltarcm/logo.png
     teaser: /assets/images/pydeltarcm/logo.png
+layout: splash
 ---
 
 | ![Example Model](/assets/images/pydeltarcm/logo.png) |
