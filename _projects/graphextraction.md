@@ -5,7 +5,7 @@ excerpt: "Extracting graphs from binary channel masks"
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/graphs/rg_logo_adjusted.png
-layout: typed
+layout: single
 ---
 
 *RivGraph* is a Python package which extracts a graph of nodes and links from
