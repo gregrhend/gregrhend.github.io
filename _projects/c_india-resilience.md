@@ -1,7 +1,7 @@
 ---
-title:  "Transport in Deltas"
+title:  "Graph Theory to Assess Resilience"
 permalink: /projects/material-transport/
-excerpt: "Modeling the impact of human modifications on material transport"
+excerpt: "Quanitfying resilience in the face of climate disasters for India chemical sector"
 header:
     #image: /assets/images/surfsub/logo.png
     teaser: /assets/images/materialtransport/logo.png
