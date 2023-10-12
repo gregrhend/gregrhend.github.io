@@ -4,7 +4,7 @@ permalink: /projects/graphs/
 excerpt: "Two-stage optimization model to find robust solutions for integrating desalination in regional water supply"
 header:
     #image: /assets/images/construction.png
-    teaser: /assets/images/desalopt/icon.png
+    teaser: /assets/images/desalopt/icon.PNG
 ---
 
 *RivGraph* is a Python package which extracts a graph of nodes and links from
