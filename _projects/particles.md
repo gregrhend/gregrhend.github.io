@@ -5,7 +5,7 @@ excerpt: "Simulation software for passive particle transport."
 header:
     #image: /assets/images/particles/logo.gif
     teaser: /assets/images/particles/logo.gif
-layout: search
+layout: single
 ---
 
 | ![Particles moving step-wise](/assets/images/particles/logo.gif) |
