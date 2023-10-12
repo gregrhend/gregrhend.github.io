@@ -1,7 +1,7 @@
 ---
-title:  "Assessing Channel Flux Estimates"
+title:  "Intermittent Water System Modeling"
 permalink: /projects/graphflux/
-excerpt: "Assessing the accuracy of flux estimates based on network graphs"
+excerpt: "Optimizing equity and conxeptualizing the supply hierarchy amongst consumers"
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/graphflux/logo.png
