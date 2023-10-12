@@ -6,7 +6,6 @@ header:
     #image: /assets/images/surfsub/logo.png
     teaser: /assets/images/surfsub/logo.png
 published: True
-layout: single
 ---
 
 | ![Example strike section](/assets/images/surfsub/logo.png) |
