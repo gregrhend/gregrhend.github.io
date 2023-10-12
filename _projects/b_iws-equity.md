@@ -4,7 +4,7 @@ permalink: /projects/graphflux/
 excerpt: "Optimizing equity and conxeptualizing the supply hierarchy amongst consumers"
 header:
     #image: /assets/images/construction.png
-    teaser: /assets/images/graphflux/logo.png
+    teaser: /assets/images/iwsopt/eq_ds_plot.png
 ---
 
 | ![Error Distributions](/assets/images/graphflux/AvgWidthErrorFig.png) |
