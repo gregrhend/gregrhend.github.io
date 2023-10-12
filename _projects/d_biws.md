@@ -1,10 +1,10 @@
 ---
-title: "New name"
+title: "Battle of Intermittent Water Supply"
 permalink: /projects/new-name/
-excerpt: "Standardizing tools for delta metric analysis"
+excerpt: "International hydraulic modeling competition to optimize supply in intermittent water suuply systems"
 header:
     #image: /assets/images/construction.png
-    teaser: /assets/images/metrics/alt_logo.png
+    teaser: /assets/images/biws/network.png
 ---
 
 *DeltaMetrics* is a Python package actively under development that aims to
