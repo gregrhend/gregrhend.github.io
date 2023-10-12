@@ -5,7 +5,7 @@ excerpt: "Assessing the accuracy of flux estimates based on network graphs"
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/graphflux/logo.png
-layout: categories
+layout: default
 ---
 
 | ![Error Distributions](/assets/images/graphflux/AvgWidthErrorFig.png) |
