@@ -1,5 +1,5 @@
 ---
-title:  "Graph Extraction with *RivGraph*"
+title:  "Optimizing Robust Desalination Supply Under Uncertainty"
 permalink: /projects/graphs/
 excerpt: "Extracting graphs from binary channel masks"
 header:
