@@ -1,7 +1,7 @@
 ---
-title:  "Optimizing Robust Desalination Supply Under Uncertainty"
+title:  "Optimizing Water Supply Facing Uncertainty"
 permalink: /projects/graphs/
-excerpt: "Extracting graphs from binary channel masks"
+excerpt: "Two-stage optimization model to find robust solutions for integrating desalination in regional water supply"
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/graphs/rg_logo_adjusted.png
