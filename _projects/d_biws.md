@@ -10,7 +10,7 @@ header:
 *DeltaMetrics* is a Python package actively under development that aims to
 provide an analysis toolbox for studying river deltas.
 While *DeltaMetrics* is being developed with
-[*pyDeltaRCM*]({% link _projects/pydeltarcm.md %}) in mind, it is
+[*pyDeltaRCM*](**old link**) in mind, it is
 meant to be a general purpose tool that can be applied to experimental as well
 as remotely sensed data. We gave a presentation introducing both [*pyDeltaRCM*](**old link**) and *DeltaMetrics* at a UTIG Discussion Hour in April 2021, you can watch a recording [here](https://www.youtube.com/watch?v=wFDxGKvnxpo).
 
