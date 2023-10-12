@@ -6,6 +6,7 @@ header:
     #image: /assets/images/surfsub/logo.png
     teaser: /assets/images/materialtransport/logo.png
 published: True
+layout: compress
 ---
 
 | ![Example modeled topographies](/assets/images/materialtransport/ModelTopo_Modifications.png) |
