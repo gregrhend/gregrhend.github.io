@@ -5,6 +5,7 @@ excerpt: "Standardizing tools for delta metric analysis"
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/metrics/alt_logo.png
+layout: posts
 ---
 
 *DeltaMetrics* is a Python package actively under development that aims to
