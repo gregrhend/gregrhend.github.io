@@ -13,7 +13,7 @@ header:
 
 ### Takeaways
 
-| ![Parallel plot](/assets/images/desalopt/scatter_pplot.png) |
+| ![Parallel plot](/assets/images/desalopt/scatter_pplot.PNG) |
 |:--:|
 | Summary of plot. |
 
