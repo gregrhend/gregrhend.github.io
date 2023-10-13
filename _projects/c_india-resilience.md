@@ -4,7 +4,7 @@ permalink: /projects/material-transport/
 excerpt: "Quanitfying resilience in the face of climate disasters for India chemical sector"
 header:
     #image: /assets/images/surfsub/logo.png
-    teaser: /assets/images/materialtransport/logo.png
+    teaser: /assets/images/resilience/icon.png
 published: True
 ---
 
