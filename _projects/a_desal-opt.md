@@ -8,13 +8,20 @@ header:
 ---
 
 ### Project Overview:
-This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and reduce operational costs.
+This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and introduce tradeoffs between up-front capital costs and expected recourse costs.
 
 ### Introduction:
-Water scarcity is an escalating global issue, further intensified by unpredictable extreme climate events. The imbalances between water demand and available resources necessitate innovative solutions. Israel's INWSS serves as a case study here due to its strategic investment in the desalination sector, having successfully achieved water security against these adversities. Using this system as a basis, the research underscores the value of taking calculated risks, such as in upfront investments, even when faced with uncertainty, especially as historical data becomes less indicative of future conditions.
+Water scarcity is an escalating global issue, and to achieve a secure supply, regional water supply system managers must make decisions in the face of a plethora of uncertainties including consumer demands (municipal, agricultural, industrial), population growth, and climate conditions. Water supply systems in arid regions often rely on desalination to augment the traditional sources of water supply, thereby providing drought-resistent supply for the consuemrs but complicating the management decisions for water managers. With the inclusion of desalination, water managers need to consider the variance in salinity between the different supply sources and find the otpimal mixing strategy to meet the necessary water quality goals in the system, all while contractual constraints enforced from the public-private partnerships that desalination plants are often funded through. Here we use the Israeli National Water Supply System (INWSS) as a case study to develop an optimization modeling framework that incorporates uncertainty, multi-quality-sources and desalination constraints in order to anlyze tradeoffs in up-front costs, expected recourse costs, and system robustness.
+
 
 ### Methods:
-The primary framework is a two-stage optimization model supported by multicriteria decision analysis, as outlined in Figure 1. In the first stage, investment decisions for desalination are made without prior knowledge of future scenarios, while the second stage focuses on operational decisions after unveiling these scenarios. Multicriteria analysis aids in evaluating the results across different decision objectives, like system robustness and cost-effectiveness. This approach is particularly advantageous for systems that can't rely solely on historical data to predict future conditions, thereby sidestepping issues related to parameterizing uncertainty.
+The primary framework is a two-stage optimization model supported by multicriteria decision analysis, as outlined in Figure 1. 
+
+| ![Parallel plot](/assets/images/desalopt/framework.png) |
+|:--:|
+| Summary of plot. |
+
+In the first stage, investment decisions for desalination are made without prior knowledge of future scenarios, while the second stage focuses on operational decisions after unveiling these scenarios. Multicriteria analysis aids in evaluating the results across different decision objectives, like system robustness and cost-effectiveness. This approach is particularly advantageous for systems that can't rely solely on historical data to predict future conditions, thereby sidestepping issues related to parameterizing uncertainty.
 
 
 ### Insights:
