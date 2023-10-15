@@ -261,9 +261,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  tidbits:
-    output: true
-    permalink: /:collection/:path/
+  #tidbits:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
