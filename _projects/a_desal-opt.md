@@ -36,8 +36,7 @@ In the first stage, investment decisions for desalination are made without prior
 
 
 ### Insights:
-<font size="3">
-1. **Trade-offs & Robustness**: The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
+1. **<font size="3">Trade-offs & Robustness</font>**: The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
 
 2. **Stakeholder Preferences**: The multicriteria analysis framework is a valuable tool for incorporating stakeholder preferences directly into the decision-making process. By offering a comprehensive view of future scenarios and their outcomes, stakeholders can determine the best decision aligned with their preferences. This also simplifies the identification of compromises in case of conflicting stakeholder interests.
 
