@@ -35,3 +35,11 @@ $base0f: #b18a3d !default;
 @import "minimal-mistakes"; // main partials
 @import "minimal-mistakes/mike";
 @import "minimal-mistakes/timeline";
+
+.page__content {
+  p,
+  li,
+  dl {
+    font-size: 0.75em;
+  }
+}
