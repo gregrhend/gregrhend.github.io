@@ -6,7 +6,7 @@ header:
     #image: /assets/images/construction.png
     teaser: /assets/images/desalopt/prom.PNG
 ---
-
+<font size="3">
 ### Project Overview:
 This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and introduce tradeoffs between up-front capital costs and expected recourse costs.
 
@@ -48,6 +48,5 @@ Hendrickson, G., Housh, M., and Sela, L. (2023). Optimizing desalination for reg
 
 ### References
 ---
-<font size="3">
 Hendrickson, G., Housh, M., & Sela, L. (2023). Optimizing desalination for regional water systems: Integrating uncertainty, quality, and sustainability. Journal of Cleaner Production, 137785.
 </font>
