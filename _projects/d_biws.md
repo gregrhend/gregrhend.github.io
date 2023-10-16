@@ -4,7 +4,7 @@ permalink: /projects/new-name/
 excerpt: "International hydraulic modeling competition to optimize supply in intermittent water suuply systems"
 header:
     #image: /assets/images/construction.png
-    teaser: /assets/images/biws/network.png
+    teaser: /assets/images/biws/iws_logo.png
 ---
 
 *DeltaMetrics* is a Python package actively under development that aims to
