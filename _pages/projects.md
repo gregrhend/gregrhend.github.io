@@ -12,7 +12,9 @@ classes: wide
 </span>
 
 ### Here's a heading
-### Research
+###### Smaller heading (6#'s)
+####### small font?
+*<font size="3"> html small font </font>
 
 *<font size="3"> My research utilizes optimization methods to maximize equity and resilience in non-traditional water supply systems </font>*
 
