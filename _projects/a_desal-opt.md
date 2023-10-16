@@ -36,17 +36,17 @@ In the first stage, investment decisions for desalination are made without prior
 
 
 ### Insights:
-1. **<font size="3">Trade-offs & Robustness</font>**: The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
+1. **<font size="3">Trade-offs & Robustness:</font>** <font size="3">The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
 
-2. **Stakeholder Preferences**: The multicriteria analysis framework is a valuable tool for incorporating stakeholder preferences directly into the decision-making process. By offering a comprehensive view of future scenarios and their outcomes, stakeholders can determine the best decision aligned with their preferences. This also simplifies the identification of compromises in case of conflicting stakeholder interests.
+2. **<font size="3">Stakeholder Preferences:</font>** <font size="3">The multicriteria analysis framework is a valuable tool for incorporating stakeholder preferences directly into the decision-making process. By offering a comprehensive view of future scenarios and their outcomes, stakeholders can determine the best decision aligned with their preferences. This also simplifies the identification of compromises in case of conflicting stakeholder interests.</font>
 
-3. **Participatory Modeling & Collaboration**: Emphasizing a collaborative approach, the research advocates for the active involvement of stakeholders during all stages of model development, application, and validation. This not only helps in building trust but also encourages future partnerships and co-learning.
+3. **<font size="3">Participatory Modeling & Collaboration:</font>** <font size="3">Emphasizing a collaborative approach, the research advocates for the active involvement of stakeholders during all stages of model development, application, and validation. This not only helps in building trust but also encourages future partnerships and co-learning.</font>
 
-4. **Israel's Success Story**: Israel's emphasis on multi-decadal water system planning, its robust R&D investments, and public-private collaborations in the desalination sector stand out as the key drivers behind its water security achievements. This success story offers a practical roadmap for other regions looking to bolster their water management strategies through technologies like desalination.
+4. **<font size="3">Israel's Success Story:</font>** <font size="3">Israel's emphasis on multi-decadal water system planning, its robust R&D investments, and public-private collaborations in the desalination sector stand out as the key drivers behind its water security achievements. This success story offers a practical roadmap for other regions looking to bolster their water management strategies through technologies like desalination.</font>
 
-5. **The Global Context:** With the rising global trend of desalination and increasing climatic extremities that challenge historical patterns, the methodology presented in this research can be adapted worldwide to address water insecurity challenges.
+5. **<font size="3">The Global Context:</font>** <font size="3">With the rising global trend of desalination and increasing climatic extremities that challenge historical patterns, the methodology presented in this research can be adapted worldwide to address water insecurity challenges.</font>
 
-In conclusion, this work accentuates the promise desalination holds for regional water supplies, especially in extreme conditions. By following a structured approach, as showcased by Israel, regions worldwide can leverage cleaner production technologies to offer cost-effective solutions to the mounting water scarcity challenge.
+<font size="3">In conclusion, this work accentuates the promise desalination holds for regional water supplies, especially in extreme conditions. By following a structured approach, as showcased by Israel, regions worldwide can leverage cleaner production technologies to offer cost-effective solutions to the mounting water scarcity challenge.
 </font>
 
 ### Publications
