@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-layout: collection
+layout: archive-single
 collection: projects
 permalink: /projects/
 author_profile: true
