@@ -9,7 +9,7 @@ classes: wide
 ---
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
-</span>
+
 
 ### Here's a heading
 ###### Smaller heading (6#'s)
@@ -30,3 +30,4 @@ My research focuses on the management of water supply systems to improve consume
 
 <font size="3">
 3. Resilience and equity: How do we implement control strategies that ensure the systems are resilient to climate shocks and how do we ensure that these strategies maintain equitable access to water for consumers?</font>
+</span>
