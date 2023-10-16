@@ -10,17 +10,9 @@ classes: wide
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
 
+ *My research utilizes optimization methods to maximize equity and resilience in non-traditional water supply systems*
 
-### Here's a heading
-###### Smaller heading (6#'s)
-####### small font?
-*<font size="3"> html small font </font>
-
-*<font size="3"> My research utilizes optimization methods to maximize equity and resilience in non-traditional water supply systems </font>*
-
-<font size="3">
 My research focuses on the management of water supply systems to improve consumer welfare in water-scarce environments. The scale of these systems range from local distribution networks to large-scale regional water supply, where differences in scale require different modeling approaches. Overall, I seek to build optimization models that serve as design tools to aid in the decision-making process for water managers facing complex choices. The primary themes of work include:
-</font>
 
 
 1. <font size="3"> Optimization under uncertainty: How can we create models that account for uncertainties, elucide tradeoffs between potential management strategies, distill complex results into accessible and actionable decisions.</font>
