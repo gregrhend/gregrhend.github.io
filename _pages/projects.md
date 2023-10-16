@@ -7,6 +7,9 @@ author_profile: true
 entries_layout: grid
 classes: wide
 ---
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
 
 ### Here's a heading
 ### Research
