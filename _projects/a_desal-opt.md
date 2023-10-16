@@ -5,6 +5,7 @@ excerpt: "Two-stage optimization model to find robust solutions for integrating 
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/desalopt/prom.PNG
+layout: single-wide
 ---
 ### Project Overview:
 <font size="3">
