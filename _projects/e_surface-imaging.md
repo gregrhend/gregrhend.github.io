@@ -1,7 +1,7 @@
 ---
-title:  "Particle Simulation with *dorado*"
+title:  "Determining Flow Rates from Surface Images"
 permalink: /research/particles/
-excerpt: "Simulation software for passive particle transport."
+excerpt: "Experimental method to approximate flow rates in streams using particle image velocimetry"
 header:
     #image: /assets/images/particles/logo.gif
     teaser: /assets/images/particles/logo.gif
