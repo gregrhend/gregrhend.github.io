@@ -1,10 +1,10 @@
 ---
-title:  "Modernizing DeltaRCM"
+title:  "Hydraulic Analysis of Median Barriers"
 permalink: /projects/pydeltarcm/
-excerpt: "Making DeltaRCM modern and modular"
+excerpt: "Hydraulic testing of median barriers for installation in Houston floodplain"
 header:
     #image: /assets/images/pydeltarcm/logo.png
-    teaser: /assets/images/pydeltarcm/logo.png
+    teaser: /assets/images/medianbarrier/median_barrier.gif
 ---
 
 | ![Example Model](/assets/images/pydeltarcm/logo.png) |
