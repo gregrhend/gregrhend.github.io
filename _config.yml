@@ -265,8 +265,8 @@ collections:
   #  output: true
   #  permalink: /:collection/:path/
   bookshelf:
-  output: true
-  permalink: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -295,7 +295,7 @@ defaults:
       comments: false
       sidebar:
         nav: "tidbits"
-    _bookshelf
+  # _bookshelf
   - scope:
       path: ""
       type: bookshelf
