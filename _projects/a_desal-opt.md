@@ -4,7 +4,7 @@ permalink: /projects/graphs/
 excerpt: "Two-stage optimization model to find robust solutions for integrating desalination in regional water supply"
 header:
     #image: /assets/images/construction.png
-    teaser: /assets/images/desalopt/prom.PNG
+    teaser: /assets/images/desalopt/prom_logo.png
 layout: single-wide
 ---
 ### Project Overview:
