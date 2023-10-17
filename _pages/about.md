@@ -6,4 +6,4 @@ author_profile: true
 permalink: /about/
 ---
 
-Hello I'm Jayaram aka Jay.
+
