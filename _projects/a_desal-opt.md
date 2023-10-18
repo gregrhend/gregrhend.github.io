@@ -23,11 +23,13 @@ The primary framework is a two-stage optimization model supported by multicriter
     
 </font>
 
-
 | ![Framework](/assets/images/desalopt/framework.png) |
 |:--|
 | Overview of two-stage optimization process + multicriteria deicsion analysis. |
 
+</br>
+</br>
+</br>
 
 <font size="3">
 
@@ -37,7 +39,7 @@ The performance metrics explored in this work are split into the broad categorie
 
 | ![Parallel plot](/assets/images/desalopt/scatter_pplot.PNG) |
 |:--|
-| (a) Scatter plot of the total desalination investment and robustness score for each preferred solution in sensitivity analysis. (b) Parallel plot of cost and robustness performance for each desalination supply strategy (implementable decisions) corresponding to poitns in scatter plot. |
+| (a) Scatter plot of the total desalination investment and robustness score for each preferred solution in sensitivity analysis. (b) Parallel plot of cost and robustness performance for each desalination supply strategy (implementable decisions) corresponding to points in scatter plot. |
 
 ### Insights:
 1. **<font size="3">Trade-offs & Robustness:</font>** <font size="3">The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
