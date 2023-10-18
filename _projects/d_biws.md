@@ -10,10 +10,10 @@ Adding content soon! In the meantime, here are some photos of my trip to Valenci
 ![Framework](/assets/images/biws/presenting.HEIC) 
 
 
-![Framework](/assets/images/biws/dinner.png) 
+![Framework](/assets/images/biws/dinner.JPG) 
 
 
-| ![Framework](/assets/images/biws/skydiving.png) |
+| ![Framework](/assets/images/biws/skydiving.JPG) |
 |:--|
 | Skydiving! |
 
