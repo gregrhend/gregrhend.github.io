@@ -15,20 +15,18 @@ main:
 projects:
   - title: Projects
     children:
-      - title: "Delta Surface-Subsurface"
-        url: /projects/surf-sub
-      - title: "Particle Simulation with dorado"
-        url: /projects/particles
-      - title: "Modernizing DeltaRCM"
-        url: /projects/pydeltarcm
-      - title: "Delta Metrics"
-        url: /projects/delta-metrics
-      - title: "Graph Extraction with RivGraph"
-        url: /projects/graphs
-      - title: "Error in Graph Flux Estimates"
-        url: /projects/graphflux
-      - title: "Material Transport in Deltas"
-        url: /projects/material-transport
+      - title: "Desalination Optimization with Uncertainty"
+        url: /projects/desal
+      - title: "Intermittent Water System Optimization"
+        url: /projects/intermittent
+      - title: "Network Analysis for Resilience"
+        url: /projects/resilience
+      - title: "Battle of Intermittent Water Supply"
+        url: /projects/biws
+      - title: "Particle Image Velocimetry"
+        url: /projects/piv
+      - title: "Hydraulic Analysis of Median Barriers"
+        url: /projects/medianbarriers
 
 tidbits:
   - title: Tidbits
