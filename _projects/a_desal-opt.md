@@ -38,8 +38,9 @@ The performance metrics explored in this work are split into the broad categorie
 | (a) Scatter plot of the total desalination investment and robustness score for each preferred solution in sensitivity analysis. (b) Parallel plot of cost and robustness performance for each desalination supply strategy (implementable decisions) corresponding to points in scatter plot. |
 
 ### Insights:
+<font size="3">
 While the up-front investment in desalination is expensive, the results display how increases in desalination production mitigate recourse costs in situations of high uncertainty, both decreasing expected total costs and increasing system robustness. Through the explicit modeling of uncertainty in a scenario-based approach, the results can be made accessible for stakeholders where a posteriori analysis can highlight how changes in stakeholder preferences change the perferred strategies, thereby assisting in highlighting such win-win scenarios, illuminating tradeoffs, and exposing tails risks. In addition, a participatory modeling approach is emphasized for complex problems, where the inclusion of stakeholders throughout the modeling and solution evaluation process can help identify stakeholder compromises and conflicts
-
+</font>
 
 1. **<font size="3">Trade-offs & Robustness:</font>** <font size="3">The research found that any increase in the desalination investment
 ### Publications
