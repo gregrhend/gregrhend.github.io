@@ -1,5 +1,5 @@
 ---
-title:  "Optimizing Water Supply Facing Uncertainty"
+title:  "Optimizing Desalination Supply Under Uncertainty"
 permalink: /projects/graphs/
 excerpt: "Two-stage optimization model to find robust solutions for integrating desalination in regional water supply"
 header:
@@ -9,7 +9,7 @@ layout: single-wide
 ---
 ### Project Overview:
 <font size="3">
-This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and introduce tradeoffs between up-front capital costs and expected recourse costs.
+This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and introduce trade-offs between up-front capital costs and expected recourse costs.
 </font>
 
 ### Introduction:
@@ -19,22 +19,18 @@ Water scarcity is an escalating global issue, and to achieve a secure supply, re
 
 ### Methods:
 <font size="3">
-The primary framework is a two-stage optimization model supported by multicriteria decision analysis, as outlined in Figure 1. 
+The primary framework is a two-stage optimization model supported by multicriteria decision analysis, as outlined in Figure 1. In the first stage, investment decisions for desalination are made without prior knowledge of future scenarios, while the second stage focuses on operational decisions after unveiling these scenarios. The multicriteria analysis method PROMETHEE aids in evaluating the results across different cost and robustness objectives, with the aim of distilling the results into tradeoffs that are accessible and meaningful to project stakeholders. Given many different scenarios that represent the range of uncertainties faced by water managers, the PROMETHEE method finds management decisions that most closely align with stated stakeholder preferences. 
 </font>
 
-| ![Parallel plot](/assets/images/desalopt/framework.png) |
+| ![Framework](/assets/images/desalopt/framework.png) |
 |:--:|
-| Summary of plot. |
+| Overview of two-stage optimization process + multicriteria deicsion analysis. |
 
-<font size="3">
-In the first stage, investment decisions for desalination are made without prior knowledge of future scenarios, while the second stage focuses on operational decisions after unveiling these scenarios. The multicriteria analysis method PROMETHEE aids in evaluating the results across different cost and robustness objectives, with the aim of distilling the results into tradeoffs that are accessible and meaningful to project stakeholders. Given many different scenarios that represent the range of uncertainties faced by water managers, the PROMETHEE method finds that management decisions that most closely align with stated stakeholder preferences and a sensitivity analysis is performed on the preferences themselves to unveil tradeoffs between costs and system robustness.
-</font>
+The performance metrics explored in this work are split into the broad categories of cost and robustness. The cost metrics include the upfront cost of investing in desalination $_I_DC$, expected recourse costs determiend from each of the unveiled scenarios $I_RC$, and the expected total cost of the system $I_TC$. The robustness metrics represent the ability of the system to meet consumer demands $I_RD$, meet water quality thresholds $I_RQ$, and maintain sustainable levels in natural resources $R_RS$. A senssitivity analysis was performed on stakeholder preferences in the PROMETHEE method to analyze how the preferred decision changes when stakeholders are cost-focus versus robustness-focues.
 
 | ![Parallel plot](/assets/images/desalopt/scatter_pplot.PNG) |
 |:--:|
-| Summary of plot. |
-
-
+| (a) Scatter plot of the total desalination investment and robustness score for each preferred solution in sensitivity analysis. (b) Parallel plot of cost and robustness performance for each desalination supply strategy (implementable decisions) corresponding to poitns in scatter plot. |
 
 ### Insights:
 1. **<font size="3">Trade-offs & Robustness:</font>** <font size="3">The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
