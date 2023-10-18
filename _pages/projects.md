@@ -10,7 +10,7 @@ classes: wide
 ### Research
 ---
 
-<font size="3">My research focuses on the management of water supply systems to improve consumer welfare in water-scarce environments. The scale of these systems range from local distribution networks to large-scale regional water supply, where differences in scale require different modeling approaches. Overall, I seek to build optimization models that serve as design tools to aid in the decision-making process for water managers facing complex choices. The primary themes of work include:</font>
+<font size="3">My research focuses on the management of water supply systems to improve consumer welfare in water-scarce environments. The scale of these systems range from local distribution networks to large-scale regional water supply, where differences in scale require different modeling approaches. Overall, I seek to build optimization models that serve as design tools to aid in the decision-making process for water managers facing complex choices. The primary themes of my work include:</font>
 
 **<font size="3"> 1. Optimization under uncertainty:</font>** <font size="3">How can we create models that account for uncertainties, elucide tradeoffs between potential     management strategies, distill complex results into accessible and actionable decisions.</font>
 
