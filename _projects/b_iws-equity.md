@@ -8,13 +8,19 @@ header:
 ---
 
 ### Project Overview
+<font size="3">
 Researchers have developed an innovative simulation-optimization framework specifically tailored for intermittent water supply (IWS) systems. The study highlights the discrepancies and inequities that arise in water supply, emphasizing the need for models that consider the unique intricacies of IWS systems.
+</font>
 
 ### Introduction
+<font size="3">
 Intermittent water supply (IWS) systems, unlike continuous water supply (CWS) systems, do not provide a consistent flow of water to consumers. This inconsistent supply often leads to disparities in water access, with some households receiving ample water and others getting little to none. The reason behind these disparities is a mix of hydraulic conditions and the use of private storage tanks by consumers. In the face of rising water scarcity and increasing reliance on IWS systems worldwide, ensuring equitable distribution becomes imperative.
+</font>
 
 ### Methods
+<font size="3">
 To understand and potentially combat these disparities, the researchers employed a volume-driven demands (VDD) approach in their hydraulic simulations. This VDD methodology takes into account consumers' private storage tanks, which are often overlooked in traditional CWS models. The study applied this framework to two different networks - a simple, idealized network and a larger, more complex one. The aim was to optimize flow control valve settings to ensure a more equitable distribution of water supply across consumers. The study also analyzed the impact of different pump schedules on system performance.
+</font>
 
 ### Insights
 Several insights emerged from the study:
