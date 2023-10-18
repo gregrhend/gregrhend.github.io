@@ -27,10 +27,6 @@ The primary framework is a two-stage optimization model supported by multicriter
 |:--|
 | Overview of two-stage optimization process + multicriteria deicsion analysis. |
 
-</br>
-</br>
-</br>
-
 <font size="3">
 
 The performance metrics explored in this work are split into the broad categories of cost and robustness. The cost metrics include the upfront cost of investing in desalination $I_{DC}$, expected recourse costs determiend from each of the unveiled scenarios $I_{RC}$, and the expected total cost of the system $I_{TC}$. The robustness metrics represent the ability of the system to meet consumer demands $I_{RD}$, meet water quality thresholds $I_{RQ}$, and maintain sustainable levels in natural resources $R_{RS}$. A senssitivity analysis was performed on stakeholder preferences in the PROMETHEE method to analyze how the preferred decision changes when stakeholders are cost-focus versus robustness-focus.
