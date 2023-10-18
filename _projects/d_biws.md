@@ -7,13 +7,13 @@ header:
 ---
 Adding content soon! In the meantime, here are some photos of my trip to Valencia, Spain for the competition (I should make a separate post about this).
 
-![Framework](/assets/images/biws/presenting.HEIC) 
+![Presentation](/assets/images/biws/presenting.HEIC) 
 
 
-![Framework](/assets/images/biws/dinner.JPG) 
+![Dinner](/assets/images/biws/dinner.JPG) 
 
 
-| ![Framework](/assets/images/biws/skydiving.JPG) |
+| ![Skydiving](/assets/images/biws/skydiving.JPG) |
 |:--|
 | Skydiving! |
 
