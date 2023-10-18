@@ -1,6 +1,6 @@
 ---
 title:  "Optimizing Desalination Supply Under Uncertainty"
-permalink: /projects/graphs/
+permalink: /projects/desal/
 excerpt: "Two-stage optimization model to find robust solutions for integrating desalination in regional water supply"
 header:
     #image: /assets/images/construction.png
