@@ -5,6 +5,7 @@ excerpt: "Optimizing equity and conxeptualizing the supply hierarchy amongst con
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/iwsopt/fcv_flows.png
+layout: single-wide
 ---
 
 ### Project Overview
