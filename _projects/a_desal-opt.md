@@ -38,26 +38,12 @@ The performance metrics explored in this work are split into the broad categorie
 | (a) Scatter plot of the total desalination investment and robustness score for each preferred solution in sensitivity analysis. (b) Parallel plot of cost and robustness performance for each desalination supply strategy (implementable decisions) corresponding to points in scatter plot. |
 
 ### Insights:
-1. **<font size="3">Trade-offs & Robustness:</font>** <font size="3">The research found that any increase in the desalination investment typically led to greater system robustness. The most robust solution entailed a 16% hike from the baseline cost. On the contrary, the least cost-focused solution recommended a slight decrease in the desalination investment.
+While the up-front investment in desalination is expensive, the results display how increases in desalination production mitigate recourse costs in situations of high uncertainty, both decreasing expected total costs and increasing system robustness. Through the explicit modeling of uncertainty in a scenario-based approach, the results can be made accessible for stakeholders where a posteriori analysis can highlight how changes in stakeholder preferences change the perferred strategies, thereby assisting in highlighting such win-win scenarios, illuminating tradeoffs, and exposing tails risks. In addition, a participatory modeling approach is emphasized for complex problems, where the inclusion of stakeholders throughout the modeling and solution evaluation process can help identify stakeholder compromises and conflicts
 
-2. **<font size="3">Stakeholder Preferences:</font>** <font size="3">The multicriteria analysis framework is a valuable tool for incorporating stakeholder preferences directly into the decision-making process. By offering a comprehensive view of future scenarios and their outcomes, stakeholders can determine the best decision aligned with their preferences. This also simplifies the identification of compromises in case of conflicting stakeholder interests.</font>
 
-3. **<font size="3">Participatory Modeling & Collaboration:</font>** <font size="3">Emphasizing a collaborative approach, the research advocates for the active involvement of stakeholders during all stages of model development, application, and validation. This not only helps in building trust but also encourages future partnerships and co-learning.</font>
-
-4. **<font size="3">Israel's Success Story:</font>** <font size="3">Israel's emphasis on multi-decadal water system planning, its robust R&D investments, and public-private collaborations in the desalination sector stand out as the key drivers behind its water security achievements. This success story offers a practical roadmap for other regions looking to bolster their water management strategies through technologies like desalination.</font>
-
-5. **<font size="3">The Global Context:</font>** <font size="3">With the rising global trend of desalination and increasing climatic extremities that challenge historical patterns, the methodology presented in this research can be adapted worldwide to address water insecurity challenges.</font>
-
-<font size="3">In conclusion, this work accentuates the promise desalination holds for regional water supplies, especially in extreme conditions. By following a structured approach, as showcased by Israel, regions worldwide can leverage cleaner production technologies to offer cost-effective solutions to the mounting water scarcity challenge.
-</font>
-
+1. **<font size="3">Trade-offs & Robustness:</font>** <font size="3">The research found that any increase in the desalination investment
 ### Publications
 <font size="3">
 Hendrickson, G., Housh, M., and Sela, L. (2023). Optimizing desalination for regional water systems: Integrating uncertainty, quality, and sustainability. Journal of Cleaner Production. doi:10.1016/j.jclepro.2023.137785
 </font>
 
-### References
----
-<font size="3">
-Hendrickson, G., Housh, M., & Sela, L. (2023). Optimizing desalination for regional water systems: Integrating uncertainty, quality, and sustainability. Journal of Cleaner Production, 137785.
-</font>
