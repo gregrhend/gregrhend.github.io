@@ -1,6 +1,6 @@
 ---
 title:  "Determining Flow Rates from Surface Images"
-permalink: /research/particles/
+permalink: /research/piv/
 excerpt: "Experimental method to approximate flow rates in streams using particle image velocimetry"
 header:
     #image: /assets/images/particles/logo.gif

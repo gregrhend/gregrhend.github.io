@@ -1,6 +1,6 @@
 ---
 title: "Battle of Intermittent Water Supply"
-permalink: /projects/new-name/
+permalink: /projects/biws
 excerpt: "International hydraulic modeling competition to optimize supply in intermittent water supply systems"
 header:
     teaser: /assets/images/biws/iws_logo.png

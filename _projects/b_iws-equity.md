@@ -1,6 +1,6 @@
 ---
 title:  "Intermittent Water System Modeling"
-permalink: /projects/graphflux/
+permalink: /projects/intermittent/
 excerpt: "Optimizing equity and conxeptualizing the supply hierarchy amongst consumers"
 header:
     #image: /assets/images/construction.png
