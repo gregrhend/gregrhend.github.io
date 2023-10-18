@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 I can be reached via email at
-[jayaram.hariharan@gmail.com](mailto:jayaram.hariharan@gmail.com)
+[ghend0106@gmail.com](mailto:ghend0106@gmail.com)
