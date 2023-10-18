@@ -310,7 +310,7 @@ defaults:
 
 # Mike (from https://github.com/sestus/mikemylonakis.com)
 typed_lines:
-  - text: "Hello and welcome to Greg's personal website!"
+  - text: "Hello and welcome to Greg's personal website! (still under construction)"
 dynamic-typing: true
 shuffle: true # Shuffle the lines.
 loop: false
