@@ -1,7 +1,7 @@
 ---
 title:  "Intermittent Water System Modeling"
 permalink: /projects/intermittent/
-excerpt: "Optimizing equity and conxeptualizing the supply hierarchy amongst consumers"
+excerpt: "Bayesian optimization model to maximize equity in water access for consumers"
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/iwsopt/fcv_flows.png
