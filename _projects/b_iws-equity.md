@@ -8,6 +8,11 @@ header:
 layout: single-wide
 ---
 
+<style>
+pre[class*=language-]
+{font-size: 0.8em;} 
+</style>
+
 ### Project Overview
 This research showcases a new hydraulic modeling approach for intermittent water supply (IWS) systems that more-accurately reflect consumer behavior in these systems. A Bayesian optimization approach is coupled with the IWS hydraulic model to determine an optimal flow control schdule that strategically limits flow to some consumers in order to increase access to water for many more, thereby maximizing the supply equity in the system. The highlights of this research include: 
 
