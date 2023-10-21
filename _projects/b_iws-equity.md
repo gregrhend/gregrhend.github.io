@@ -14,5 +14,8 @@ This research applied a new approach modeling consumer demands in intermittent w
     
 </font>
 
+### Introduction
+
+
 Full results coming soon.
 
