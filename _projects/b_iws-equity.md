@@ -1,11 +1,13 @@
-<hr>
-<p>title:  &quot;Intermittent Water System Modeling&quot;
+---
+title:  "Intermittent Water System Modeling"
 permalink: /projects/intermittent/
-excerpt: &quot;Bayesian optimization model to maximize equity in water access for consumers&quot;
-header:</p>
-<pre><code><span class="hljs-meta">#image: /assets/images/construction.png</span>
-<span class="hljs-symbol">teaser:</span> <span class="hljs-meta-keyword">/assets/</span>images<span class="hljs-meta-keyword">/iwsopt/</span>fcv_flows.png
-</code></pre><h2 id="layout-single-wide">layout: single-wide</h2>
+excerpt: "Bayesian optimization model to maximize equity in water access for consumers"
+header:
+    #image: /assets/images/construction.png
+    teaser: /assets/images/iwsopt/fcv_flows.png
+layout: single-wide
+---
+
 <h3 id="project-overview">Project Overview</h3>
 <p>This research showcases a new hydraulic modeling approach for intermittent water supply (IWS) systems that more-accurately reflect consumer behavior in these systems. A Bayesian optimization approach is coupled with the IWS hydraulic model to determine an optimal flow control schdule that strategically limits flow to some consumers in order to increase access to water for many more, thereby maximizing the supply equity in the system. The highlights of this research include: </p>
 <ol>
