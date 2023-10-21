@@ -6,19 +6,21 @@ header:
     #image: /assets/images/construction.png
     teaser: /assets/images/iwsopt/fcv_flows.png
 layout: single-wide
----
 
 <style>
 pre[class*=language-]
 {font-size: 0.8em;} 
 </style>
+---
+
+
 
 ### Project Overview
 This research showcases a new hydraulic modeling approach for intermittent water supply (IWS) systems that more-accurately reflect consumer behavior in these systems. A Bayesian optimization approach is coupled with the IWS hydraulic model to determine an optimal flow control schdule that strategically limits flow to some consumers in order to increase access to water for many more, thereby maximizing the supply equity in the system. The highlights of this research include: 
 
-    (1) A hydraulic model that reveals inequity in water access that is not captured with traditional methods
-    (2) A Bayesian optimization model that improves the equity in water supply through the imposition of a flow control schedule
-    (3) The revealed mechanisms through which private tanks and disparate hydraulic conditions engender inequity 
+    1. A hydraulic model that reveals inequity in water access that is not captured with traditional methods
+    2. A Bayesian optimization model that improves the equity in water supply through the imposition of a flow control schedule
+    3. The revealed mechanisms through which private tanks and disparate hydraulic conditions engender inequity 
 
 
 ### Introduction
