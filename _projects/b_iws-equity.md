@@ -17,9 +17,8 @@ This research showcases a new hydraulic modeling approach for intermittent water
     <li>The revealed mechanisms through which private tanks and disparate hydraulic conditions engender inequity </li>
 </ol>
 
-| ![Framework](/assets/images/iwsopt/results.png) |
-|:--|
-| Figure 1. Overview of two-stage optimization process + multicriteria deicsion analysis. |
+![Framework](/assets/images/iwsopt/results.png) 
+Figure 1. Overview of two-stage optimization process + multicriteria deicsion analysis.
 
 
 <h3>Introduction</h3>
