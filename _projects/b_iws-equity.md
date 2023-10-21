@@ -18,19 +18,18 @@ layout: single-wide
 <h3 id="introduction">Introduction</h3>
 <p>IWS systems are water distribution systems that are characterized by their inability to provide continuous 24/7 access to water, where as many as 1.3 billion people worldwide are affected by such discontinuous access [1]. To adapt to the the challenges associated with IWS system, many people use private water tanks in their home that they use to store water for periods of non-supply. While providing increased water security for some, the widespread use of private storage tanks exacerbates inequity in supply as those with better pressure conditions are able to consistenty replinish their tanks at the expense of those with less-favorable pressure coniditions. This research aims to (1) explore the mechanisms through which this difference in hydraulic conditions manifests as supply inequity, (2) improve the local supply and global equity through the implementation of an optimized FCV setting schedule, and (3) assess the effects that intermittency in source supply has on the global equity and efficacy of the flow control strategy.</p>
 <h3 id="methods">Methods</h3>
+
 <table cellspacing="0" cellpadding="0">
 <thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align:left">IWS systems are water distribution systems that are characterized by their inability to provide continuous 24/7 access to water, where as many as 1.3 billion people worldwide are affected by such discontinuous access [1]. To adapt to the the challenges associated with IWS system, many people use private water tanks in their home that they use to store water for periods of non-supply. While providing increased water security for some, the widespread use of private storage tanks exacerbates inequity in supply as those with better pressure conditions are able to consistenty replinish their tanks at the expense of those with less-favorable pressure coniditions. This research aims to (1) explore the mechanisms through which this difference in hydraulic conditions manifests as supply inequity, (2) improve the local supply and global equity through the implementation of an optimized FCV setting schedule, and (3) assess the effects that intermittency in source supply has on the global equity and efficacy of the flow control strategy.</td>
-<td>![Framework](/assets/images/iwsopt/results.png)</td>
-</tr>
+    <tr>
+        <td style="text-align:left">IWS systems are water distribution systems that are characterized by their inability to provide continuous 24/7 access to water, where as many as 1.3 billion people worldwide are affected by such discontinuous access [1]. To adapt to the the challenges associated with IWS system, many people use private water tanks in their home that they use to store water for periods of non-supply. While providing increased water security for some, the widespread use of private storage tanks exacerbates inequity in supply as those with better pressure conditions are able to consistenty replinish their tanks at the expense of those with less-favorable pressure coniditions. This research aims to (1) explore the mechanisms through which this difference in hydraulic conditions manifests as supply inequity, (2) improve the local supply and global equity through the implementation of an optimized FCV setting schedule, and (3) assess the effects that intermittency in source supply has on the global equity and efficacy of the flow control strategy.</td>
+        <td>![Framework](/assets/images/iwsopt/results.png)</td>
+    </tr>
 </tbody>
 </table>
+
+
 <h3 id="references">References</h3>
 <h3 id="publications">Publications</h3>
