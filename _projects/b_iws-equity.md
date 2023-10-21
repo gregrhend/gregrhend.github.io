@@ -24,7 +24,7 @@ layout: single-wide
 </thead>
 <tbody>
     <tr>
-        <td style="text-align:left" style="width:50%">Adding methodology soon.</td>
+        <td style="text-align:left" style="width:50%">Adding methods soon.</td>
         <td style="width:50%"><img src="/assets/images/iwsopt/results.png"></td>
     </tr>
 </tbody>
