@@ -7,7 +7,7 @@ header:
     teaser: /assets/images/iwsopt/fcv_flows.png
 layout: single-wide
 ---
-
+<font size="3">
 <h3 id="project-overview">Project Overview</h3>
 <p>This research showcases a new hydraulic modeling approach for intermittent water supply (IWS) systems that more-accurately reflect consumer behavior in these systems. A Bayesian optimization approach is coupled with the IWS hydraulic model to determine an optimal flow control schdule that strategically limits flow to some consumers in order to increase access to water for many more, thereby maximizing the supply equity in the system. The highlights of this research include: </p>
 <ol>
@@ -33,3 +33,5 @@ layout: single-wide
 
 <h3 id="references">References</h3>
 <h3 id="publications">Publications</h3>
+
+</font>
