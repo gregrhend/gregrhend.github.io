@@ -1,4 +1,9 @@
 ---
+<style>
+pre[class*=language-]
+{font-size: 0.8em;} 
+</style>
+
 title:  "Intermittent Water System Modeling"
 permalink: /projects/intermittent/
 excerpt: "Optimizing equity and conxeptualizing the supply hierarchy amongst consumers"
@@ -6,11 +11,6 @@ header:
     #image: /assets/images/construction.png
     teaser: /assets/images/iwsopt/fcv_flows.png
 layout: single-wide
-
-<style>
-pre[class*=language-]
-{font-size: 0.8em;} 
-</style>
 ---
 
 
