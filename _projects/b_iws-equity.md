@@ -18,8 +18,7 @@ This research showcases a new hydraulic modeling approach for intermittent water
 </ol>
 </font>
 
-![Framework](/assets/images/iwsopt/results.png) 
-Figure 1. Overview of two-stage optimization process + multicriteria deicsion analysis.
+
 
 <font size="3">
 <h3>Introduction</h3>
