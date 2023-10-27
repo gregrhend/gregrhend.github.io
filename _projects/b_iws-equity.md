@@ -26,7 +26,7 @@ layout: single-wide
 <tbody>
 <tr>
 <td style="text-align:left" style="width:50%">
-<ol>
+<ol style=margin-left:"0">
 <li><p><strong>Hydraulic model:</strong> The VDD method is used to augment an EPANET model with artificial elements in order to represent IWS consumers, shown in Figure 1.</p>
 </li>
 <li><p><strong>Performance metrics:</strong> The local supply ratio and global equity are calculated for each hydraulic simulation in order to define the performance of the system. The supply ratio is the total supply to a consumer divided by the total demand. The global equity is the normalized average deviation of all the supply ratios in the network, where the greater the difference in supply ratios, the lower the equity value.</p>
