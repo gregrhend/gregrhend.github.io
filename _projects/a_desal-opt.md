@@ -7,6 +7,7 @@ header:
     teaser: /assets/images/desalopt/prom_logo.png
 layout: single-wide
 ---
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 <h3 id="project-overview-">Project Overview:</h3>
 <font size="3">
 This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and introduce trade-offs between up-front capital costs and expected recourse costs.
@@ -37,7 +38,7 @@ The primary framework is a two-stage optimization model supported by multicriter
 </table>
 <font size="3">
 
-The performance metrics explored in this work are split into the broad categories of cost and robustness. The cost metrics include the upfront cost of investing in desalination $I<em>{DC}$, expected recourse costs determined from each of the unveiled scenarios $I</em>{RC}$, and the expected total cost of the system $I<em>{TC}$. The robustness metrics represent the ability of the system to meet consumer demands $I</em>{RD}$, meet water quality thresholds $I<em>{RQ}$, and maintain sustainable levels in natural resources $I</em>{RS}$. A sensitivity analysis was performed on stakeholder preferences in the PROMETHEE method to analyze how the preferred decision changes when stakeholders are cost-focus versus robustness-focus.
+The performance metrics explored in this work are split into the broad categories of cost and robustness. The cost metrics include the upfront cost of investing in desalination $I<em>{DC}$, expected recourse costs determined from each of the unveiled scenarios $$ I_{RC} $$, and the expected total cost of the system $I<em>{TC}$. The robustness metrics represent the ability of the system to meet consumer demands $I</em>{RD}$, meet water quality thresholds $I<em>{RQ}$, and maintain sustainable levels in natural resources $I</em>{RS}$. A sensitivity analysis was performed on stakeholder preferences in the PROMETHEE method to analyze how the preferred decision changes when stakeholders are cost-focus versus robustness-focus.
 
 </font>
 
