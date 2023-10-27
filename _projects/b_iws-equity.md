@@ -27,14 +27,10 @@ layout: single-wide
 <tr>
 <td style="text-align:left" style="width:50%">
 <ol style=margin-left:"0px">
-<li><p><strong>Hydraulic model:</strong> A volume-driven demand method is used to augment an EPANET model with artificial elements in order to represent IWS consumers with local storage tanks, shown in Figure 1.</p>
-</li>
-<li><p><strong>Performance metrics:</strong> The local supply ratio and global equity are calculated for each hydraulic simulation in order to define the performance of the system. The supply ratio is the total supply to a consumer divided by the total demand. The global equity is the normalized average deviation of all the supply ratios in the network, where the greater the difference in supply ratios, the lower the equity value.</p>
-</li>
-<li><p><strong>Control model:</strong> Bayesian optimization model implemented in which the objective is to maximize the global equity in the system, the decision variables are FCV settings for each designated time step, and the constraints are the hydraulic equations imposed through the simulation </p>
-</li>
-<li><p><strong>Intermittent supply:</strong> The simulation optimization approach is tested under different intermittent source supply schedules</p>
-</li>
+<li style="1"><p><strong>Hydraulic model:</strong> A volume-driven demand method is used to augment an EPANET model with artificial elements in order to represent IWS consumers with local storage tanks, shown in Figure 1.</p></li>
+<li><p><strong>Performance metrics:</strong> The local supply ratio and global equity are calculated for each hydraulic simulation in order to define the performance of the system. The supply ratio is the total supply to a consumer divided by the total demand. The global equity is the normalized average deviation of all the supply ratios in the network, where the greater the difference in supply ratios, the lower the equity value.</p></li>
+<li><p><strong>Control model:</strong> Bayesian optimization model implemented in which the objective is to maximize the global equity in the system, the decision variables are FCV settings for each designated time step, and the constraints are the hydraulic equations imposed through the simulation </p></li>
+<li><p><strong>Intermittent supply:</strong> The simulation optimization approach is tested under different intermittent source supply schedules</p></li>
 </ol>
 
 
