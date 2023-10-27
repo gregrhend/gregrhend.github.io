@@ -7,7 +7,10 @@ header:
     teaser: /assets/images/desalopt/prom_logo.png
 layout: single-wide
 ---
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 <h3 id="project-overview-">Project Overview:</h3>
 <font size="3">
 This research introduces a two-stage optimization model coupled with multicriteria decision analysis, aiming to assess the impacts and trade-offs of investing in desalination processes for regional water systems in the face of uncertainty. The study specifically zooms in on the Israeli National Water Supply System (INWSS), showcasing the ways desalination investments enhance system robustness and introduce trade-offs between up-front capital costs and expected recourse costs.
