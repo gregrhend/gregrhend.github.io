@@ -27,13 +27,13 @@ layout: single-wide
 <tr>
 <td style="text-align:left" style="width:50%">
 <ol>
-<li><p><strong>Hydraulic model:</strong> A volume-driven demand method is used to augment an EPANET model with artificial elements in order to represent IWS consumers with local storage tanks</p>
+<li><p><strong>Augment hydraulic model:</strong> A volume-driven demand method is used to augment an EPANET model with artificial elements in order to represent IWS consumers with local storage tanks</p>
 </li>
-<li><p><strong>Performance metrics:</strong> The local supply ratio (consumer supply divided by demand) and global equity (average normalized deviation in supply ratios) are calculated for each hydraulic simulation in order to define the performance of the system.</p>
+<li><p><strong>Calculate performance metrics:</strong> The local supply ratio (consumer supply divided by demand) and global equity (average normalized deviation in supply ratios) are calculated for each hydraulic simulation in order to define the performance of the system.</p>
 </li>
-<li><p><strong>Control model:</strong> Bayesian optimization model implemented in which the objective is to maximize the global equity in the system, the decision variables are FCV settings for each designated time step, and the constraints are the hydraulic equations imposed through the simulation </p>
+<li><p><strong>Implement control model:</strong> Bayesian optimization model implemented in which the objective is to maximize the global equity in the system, the decision variables are FCV settings for each designated time step, and the constraints are the hydraulic equations imposed through the simulation </p>
 </li>
-<li><p><strong>Intermittent supply:</strong> The simulation optimization approach is tested under different intermittent source supply schedules</p>
+<li><p><strong>Analyze intermittent supply:</strong> The simulation optimization approach is tested under different intermittent source supply schedules</p>
 </li>
 </ol>
 
