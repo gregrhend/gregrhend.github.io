@@ -26,7 +26,7 @@ layout: single-wide
 <tbody>
 <tr>
 <td style="text-align:left" style="width:50%">
-<ol>
+<ol style="margin-left:-25px">
 <li><p><strong>Augment hydraulic model:</strong> A volume-driven demand method is used to augment an EPANET model with artificial elements in order to represent IWS consumers with local storage tanks</p>
 </li>
 <li><p><strong>Calculate performance metrics:</strong> The local supply ratio (consumer supply divided by demand) and global equity (average normalized deviation in supply ratios) are calculated for each hydraulic simulation in order to define the performance of the system.</p>
