@@ -48,7 +48,7 @@ layout: single-wide
 
 <h3 id="insights">Insights</h3>
 <ol style="margin-left:-25px">
-    <li><p>Control model is able to improve local supply ratios and global equity, but partial control of a system yields partial improvements.</p></li>
+    <li><p>Volume-driven demand model reveals inequities that traditional demand models don't capture.</p></li>
     <li><p>Hierarchy in supply: Local storage allows consumers with better pressure conditions to be "first in line" for water whenver supply is available</p></li>
     <li><p>Intermittency in source supply exacerbates consequences of supply hierarchy in increases inequity</p></li>
     <li><p>Bayesian optimization shows inmproved computational performance over meta-heursitic optimization methods when objective function is expensive.</p></li>
