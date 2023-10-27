@@ -58,13 +58,12 @@ The performance metrics explored in this work are split into the broad categorie
 While the up-front investment in desalination is expensive, the results display how increases in desalination production mitigate recourse costs in situations of high uncertainty, both decreasing expected total costs and increasing system robustness. Through the explicit modeling of uncertainty in a scenario-based approach, the results can be made accessible for stakeholders where a posteriori analysis can highlight how changes in stakeholder preferences change the preferred strategies, thereby assisting in revealing such win-win scenarios, illuminating tradeoffs, and exposing tails risks. In addition, a participatory modeling approach is emphasized for complex problems, where the inclusion of stakeholders throughout the modeling and solution evaluation process can help identify stakeholder compromises and conflicts
 </font>
 
-<ol>
-<li><strong><font size="3">Trade-offs &amp; Robustness:</font></strong> <font size="3">The research found that any increase in the desalination investment<h3 id="publications">Publications</h3>
-<font size="3">
+
+<h3 id="publications">Publications</h3>
+
 Hendrickson, G., Housh, M., and Sela, L. (2023). Optimizing desalination for regional water systems: Integrating uncertainty, quality, and sustainability. Journal of Cleaner Production. doi:10.1016/j.jclepro.2023.137785
 </font>
 
 
-</li>
-</ol>
+
 
