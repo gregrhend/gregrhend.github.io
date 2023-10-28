@@ -38,7 +38,7 @@ The following methods summarize our team's approach:
 <li><p><strong>Control model:</strong> The nonlinear network hydraulics are approximated with a mixed-integer linear model, where the objective is to <strong><font color="#5E7AE4">maximize supply to users</font></strong> and <strong><font color="#CF7300">minimize leak volumes</font></strong> and the decsions are the control valve settings over the model time horizon.</p>
 </li>
 
-<center><img src="/assets/images/biws/objective.png" width="500"></center>
+<center><img src="/assets/images/biws/objective.png" width="350"></center>
 
 <li><p><strong>Iterative optimization:</strong> The investment and control optimization models were iteratively solved for each year of the five-year horizon.</p></li>
 </ol>
