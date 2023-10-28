@@ -4,6 +4,7 @@ permalink: /projects/biws
 excerpt: "International hydraulic modeling competition to optimize supply in intermittent water supply systems"
 header:
     teaser: /assets/images/biws/iws_logo.png
+layput: single-wide
 ---
 <font size="3">
 <h3 id="project-overview">Project Overview</h3>
@@ -20,11 +21,11 @@ The background for the BIWS competition can be found <a href="https://wdsa-ccwi2
 
 </p>
 <h3 id="methods">Methods</h3>
-</font>
+
 The following methods summarize our team's approach:
 
 
-<ol style="margin-left:-25px">
+<ol>
 <li><p><strong>Network sectorization:</strong> Gate valves are installed to sectorize the network into subzones.</p>
 </li>
 
@@ -46,14 +47,24 @@ The following methods summarize our team's approach:
 
 
 
-<h3 id="insights">Results</h3>
+<h3 id="results">Results</h3>
 <ol style="margin-left:-25px">
     <li><p>Volume-driven demand model reveals inequities that traditional demand models don't capture.</p></li>
     <li><p>Hierarchy in supply: Local storage allows consumers with better pressure conditions to be "first in line" for water whenver supply is available</p></li>
     <li><p>Intermittency in source supply exacerbates consequences of supply hierarchy in increases inequity</p></li>
     <li><p>Bayesian optimization shows inmproved computational performance over meta-heursitic optimization methods when objective function is expensive.</p></li>
 </ol>
-<h3 id="Insights">References</h3>
+<h3 id="Insights">Insights</h3>
+The conference was a lot of fun! Some very interesting research being done on intermittent water systems that inspired some of my dissertation work.
+
+Some photos from the conference / Valencia!
+
+<center><img src="/assets/images/biws/presenting.jpg"></center>
+
+<center><img src="/assets/images/biws/dinner.JPG"></center>
+
+<center><img src="/assets/images/biws/skydiving.JPG"></center>
+
 <h3 id="publications">Publications</h3>
 
 
