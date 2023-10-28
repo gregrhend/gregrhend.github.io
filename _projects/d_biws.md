@@ -44,6 +44,7 @@ The following methods summarize our team's approach:
 </ol>
 
 <center><img src="/assets/images/biws/iws_logo.png"></center>
+<center>Figure 1. Reduced network and full network. </center>
 
 
 
@@ -58,13 +59,13 @@ The following methods summarize our team's approach:
 The conference was a lot of fun! Some very interesting research being done on intermittent water systems that inspired some of my dissertation work.
 
 Some photos from the conference / Valencia!
-
+<br>
 <center><img src="/assets/images/biws/presenting.jpg"></center>
-
+<br>
 <center><img src="/assets/images/biws/dinner.JPG"></center>
-
+<br>
 <center><img src="/assets/images/biws/skydiving.JPG"></center>
-
+<br>
 <h3 id="publications">Publications</h3>
 
 
