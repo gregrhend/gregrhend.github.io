@@ -1,5 +1,5 @@
 ---
-title:  "Graph Theory to Assess Resilience"
+title:  "Network Analysis of Inrfastructure Resilience"
 permalink: /projects/resilience/
 excerpt: "Quanitfying resilience in the face of climate disasters for India chemical sector"
 header:
